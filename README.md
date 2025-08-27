@@ -79,8 +79,8 @@ I'm a passionate **Full Stack Developer** with a love for building scalable, eff
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AVtheking&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AVtheking&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AVtheking&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ---
 
 <div>
